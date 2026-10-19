@@ -1,0 +1,6 @@
+# Runtime dependencies. pyproject.toml is the authoritative package metadata.
+numpy
+opencv-python
+pycolmap
+rerun-sdk
+Pillow
