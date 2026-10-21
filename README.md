@@ -27,7 +27,7 @@ Each release contains:
 SFM-Metric-Calibrator-vx.x.x/
 ├── launch.bat
 ├── sfm_metric_calibrator-x.x.x-py3-none-any.whl
-└── requirements.txt
+└── README.md
 ~~~
 
 Keep the launcher and matching wheel in the same directory, then double-click `launch.bat`. It creates a local `.venv` if needed, installs the application and dependencies, and starts the application. Subsequent launches reuse the environment; the system Python environment is not modified.
